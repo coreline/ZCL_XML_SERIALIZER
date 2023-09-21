@@ -1,2 +1,8 @@
 # ZCL_XML_SERIALIZER
-Class for XML serialization / deserialization
+Класс ZCL_XML_SERIALIZER предназначен для сериализации и десериализации данных в формат XML
+Сериализация работает аналогично классу /UI2/CL_JSON
+
+## Сериализация
+zcl_xml_serializer=>serialize
+## Деериализация
+zcl_xml_serializer=>deserialize
