@@ -3,6 +3,6 @@
 Сериализация работает аналогично классу /UI2/CL_JSON
 
 ## Сериализация
-zcl_xml_serializer=>serialize
+Метод ZCL_XML_SERIALIZER=>SERIALIZE
 ## Деериализация
-zcl_xml_serializer=>deserialize
+Метод ZCL_XML_SERIALIZER=>DESERIALIZE
